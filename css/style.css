@@ -1,0 +1,57 @@
+body{
+    background-color: darksalmon;
+    margin: 0;
+}
+
+header{
+    background-color: darkseagreen;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 50px 50px;
+}
+
+.overview-area{
+    text-align: center;
+    background-color: yellow;
+}
+
+header .overview-area h1{
+    font-size: 50px;
+    margin: 0;
+    color: red;
+    text-transform: capitalize;
+}
+
+header .overview-area h2{
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+body header .details-area{
+    background-color: red;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+body header .details-area h2 {
+    font-size: 50px;
+    background-color: yellow;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    border-top: 10px solid blue;
+
+
+
+
+}
+body header .details-area p {
+    font-size: 25px;
+    background-color: yellow;
+}
